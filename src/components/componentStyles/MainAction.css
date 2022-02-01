@@ -1,0 +1,48 @@
+.main-container {
+    background-color: rgb(222, 237, 214);
+    min-height: 428px;
+    background-image: url('https://www.instacart.com/image-server/x856/www.instacart.com/assets/homepage/homepage_background_full_m3_cropped-8d2d286263821da7decd7c61fb1db1eb0e3dec13e0c356277d6d3cb7484c024a.jpg');
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#main-action {
+    text-align: left;
+    width: 528px;
+}
+
+#address-bar {
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    height: 50px;
+}
+
+#address-bar input{
+    background-color: transparent;
+    border: none;
+}
+
+#address-bar input:focus{
+    outline: none;
+}
+
+#language-container {
+    width: 10%;
+}
+
+#language {
+    background-color: white;
+    border-radius: 10px;
+    height: 50px;
+    width: 100px
+}
+
+#american-icon {
+    max-height: 60%;
+    margin-top: 10%;
+}
+
+
